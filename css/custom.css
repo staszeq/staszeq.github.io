@@ -20,6 +20,10 @@ a {
     color: #333
 }
 
+a:focus, a:hover {
+    color: #cdc7c6;
+}
+
 .text-primary {
     color: #333
 }
